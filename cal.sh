@@ -28,3 +28,7 @@ case $ch in
   ;;
 esac
 echo "Result : $res
+
+echo "completed"
+echo "second version"
+echo "made changes and merge to main branch"

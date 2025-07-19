@@ -28,3 +28,7 @@ case $ch in
   ;;
 esac
 echo "Result : $res
+
+echo "completed"
+echo "second version"
+
